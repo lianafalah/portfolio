@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_liana">"Hi, my name is Paulo.
+I am the founder of Build Apps With Paulo, where I teach people to program and how to become well-rounded developers.
+I've taught more than 20,000 students from over 175 countries how to build program in Java and to build Android apps.
+Teaching is my passion.  My mission is to help 1 Million students to reach their goal of becoming the best developers they can be."</string>
+</resources>
